@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis — World Layoffs (Oracle SQL)
+# 📊 Exploratory Data Analysis - World Layoffs (Oracle SQL)
 
 > Exploring trends in company size, industry, geography, and time in a cleaned layoffs dataset - using Oracle SQL.
 
