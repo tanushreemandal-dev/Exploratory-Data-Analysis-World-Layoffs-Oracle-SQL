@@ -67,4 +67,4 @@ oracle-sql-eda/
 If you have feedback, questions, or just want to talk data — feel free to reach out or open an issue on this repo!
 
 - 💼 LinkedIn: [Tanushree Mandal](https://linkedin.com/in/tanushree-mandal-aba24b286)
-- 📧 Email: [tanushreemandal235@gmail.com](tanushreemandal235@gmail.com)
+- 📧 Email: [tanushreemandal235@gmail.com](mailto:tanushreemandal235@gmail.com)
